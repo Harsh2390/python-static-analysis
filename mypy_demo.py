@@ -1,3 +1,8 @@
+"""
+This module contains utility functions for basic arithmetic operations and greeting.
+It demonstrates the use of type hints and docstrings for better code documentation.
+"""
+
 def add(a: int, b: int) -> int:
     """Adds two integers."""
     return a + b
