@@ -12,3 +12,5 @@ def hello(name):
 
 hello("Alice")
 hello("bob")
+
+hello("charlie")
